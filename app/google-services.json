@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "913981620550",
+    "firebase_url": "https://project-7807781103656514230.firebaseio.com",
+    "project_id": "project-7807781103656514230",
+    "storage_bucket": "project-7807781103656514230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913981620550:android:038998c50ffeb242",
+        "android_client_info": {
+          "package_name": "com.guapiston.yellowcab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913981620550-ka56tkviesb883h1hrs0g8tej9h9pat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHkmUR6RwqUF76yOC1hAZJgqJqOW_fkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913981620550:android:2d8af29d749da3f0",
+        "android_client_info": {
+          "package_name": "com.guapiston.yellowcabcliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913981620550-sg1qgloshmspikfal3h87997f8hjiti7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guapiston.yellowcabcliente",
+            "certificate_hash": "98A80C10351005C40D1F8F88463482CC315D0B2F"
+          }
+        },
+        {
+          "client_id": "913981620550-ka56tkviesb883h1hrs0g8tej9h9pat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHkmUR6RwqUF76yOC1hAZJgqJqOW_fkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913981620550-r6qmphn2kop0qrvpm2ajhmj335hrmo5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Pi-Coders.GabrielTheDeveloper.PiCab"
+              }
+            },
+            {
+              "client_id": "913981620550-ka56tkviesb883h1hrs0g8tej9h9pat6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913981620550:android:2a33732f81be0c69",
+        "android_client_info": {
+          "package_name": "com.guapiston.cabxicliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913981620550-ka56tkviesb883h1hrs0g8tej9h9pat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHkmUR6RwqUF76yOC1hAZJgqJqOW_fkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913981620550:android:22927bcf9d6d9f55",
+        "android_client_info": {
+          "package_name": "com.picoders.cabxicliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913981620550-ka56tkviesb883h1hrs0g8tej9h9pat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHkmUR6RwqUF76yOC1hAZJgqJqOW_fkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
